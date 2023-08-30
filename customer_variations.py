@@ -1,4 +1,4 @@
 customer_variations = [
-    'กิตฮับบึค', 
+    'กิตฮับบึค',
     'GITHUB',
 ]
