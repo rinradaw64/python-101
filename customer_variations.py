@@ -1,5 +1,7 @@
 customer_variations = [
     'กิตฮับบึค',
     'GITHUB',
-    'gItHUb'
+    'gItHUb',
+    'กิตฮับนะ',
+    'กิตกิ๊ตgit'
 ]
