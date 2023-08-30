@@ -4,4 +4,6 @@ customer_variations = [
     'gItHUb',
     "GitHub",
     "กิต",
+    'กิตฮับนะ',
+    'กิตกิ๊ตgit'
 ]
